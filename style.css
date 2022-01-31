@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color:lightblue;
+    text-decoration: none;
+}
+header a{
+    text-decoration: none;
+    margin: 10px;
+    padding: 3px;
+    color: blue;
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: white;
+}
+h1{
+    color: gold;
+    text-align: center;
+}
+footer p{
+    border: 2px solid pink;
+}
+main nav{
+    background-color: olive;
+    border: 2px green;
+    margin: 15px;
+    text-align: center;
+}
+.tovars{
+    border: 3px solid navy;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 10px;
+}
+main h2{
+    color: blue;
+    text-align: center;
+}
